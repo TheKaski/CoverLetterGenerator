@@ -20,4 +20,4 @@ More information in README.md
 - EmployerName
 - PositionTitle
 - CompanyName
--(add tyour own in code)
+- (add tyour own in code)
