@@ -8,7 +8,7 @@ The purpose is to use Python to generate and multiply personalized cover letters
 3. Run the program with `python main.py` and use the results as you wish
 
 ## Example template provided:
-Fill this template with your coverage letter text
+Fill this template with your cover letter text
 You can use the variables
 EmployerName:{EmployerName} 
 CompanyName:{CompanyName}
