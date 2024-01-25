@@ -1,0 +1,7 @@
+Fill this template with your coverage letter text
+You can use the variables
+EmployerName:{EmployerName} 
+CompanyName:{CompanyName}
+PositionTitle:{PositionTitle}
+And they will be replaced with your given inputs.
+More information in README.md
